@@ -5,6 +5,7 @@ Essa interface do twitter foi feita com o objetivo de melhora meus conhecimentos
 - HTML
 - Styled-components
 - TypeScript
+- Reactjs
 
 
 ![image](https://user-images.githubusercontent.com/17939912/111028624-94f11680-83d6-11eb-8961-edd73eab1f66.png)
